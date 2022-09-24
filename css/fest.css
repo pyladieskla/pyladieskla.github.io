@@ -422,7 +422,7 @@ p.d-date {
 }
 p.bouton {
 	text-align: center;
-    margin-top: 4%;
+    /* margin-top: 4%; */
 }
 .register {
 	background: gold;
@@ -546,9 +546,10 @@ a img {
   	border: none;
   	outline: none;
   	padding: 10px 16px;
-  	background-color: #f1f1f1;
+  	background-color: gold;
   	cursor: pointer;
   	font-size: 18px;
+		float: right;
 }
 
 .btn:hover {
