@@ -287,10 +287,10 @@ svg:not(:root) {
 .u-section-5 .u-text-4 {
     margin: -46px 0 0 92px;
 }
-p:not(.u-text-variant) {
+/* p:not(.u-text-variant) {
     margin-top: 20px;
     margin-bottom: 20px;
-}
+} */
 p {
     margin-top: 0;
     padding: 0;
@@ -495,7 +495,7 @@ a:visited {
     margin-top: -3%;
 }
 .ticker {
-	padding-bottom: 40px;
+	/* padding-bottom: 40px; */
     font-size: larger;
     margin-top: -30px;
 }
