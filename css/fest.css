@@ -387,7 +387,7 @@ p {
     font-weight: 700;
     margin: -59px 166px 0 92px;
 }
-}
+
 .u-section-5 .u-text-10 {
     margin: -46px 0 0 92px !important;
 }
@@ -403,9 +403,9 @@ p {
 h2#fest-head {
 	color: #fff;
 	font-family: Montserrat;
-	font-size: 7.7em;
+	font-size: 4.7em;
 	font-weight: 700;
-	letter-spacing: 0.05em;
+	letter-spacing: 0.03em;
 	text-align: center;
 	text-transform: uppercase;
 
